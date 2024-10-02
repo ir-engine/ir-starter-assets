@@ -1,0 +1,526 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "THREE.GLTFExporter"
+  },
+  "scenes": [
+    {
+      "name": "New Object",
+      "nodes": [
+        3
+      ],
+      "extras": {
+        "src": "__$project$__/ir-engine/ir-starter-assets/assets/prefabs/animation-trigger.gltf"
+      }
+    }
+  ],
+  "scene": 0,
+  "nodes": [
+    {
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        -1.343588558829462e-7,
+        0.9999999657714532,
+        0,
+        0,
+        -0.4999999999999955,
+        -6.717943024092675e-8,
+        0,
+        0,
+        0.49999999999999545,
+        6.717943018541561e-8,
+        1
+      ],
+      "name": "Geo",
+      "extras": {
+        "name": "Box"
+      },
+      "mesh": 0,
+      "extensions": {
+        "EE_uuid": "cba5143f-e128-4b67-ba0e-bfa2e0938376",
+        "EE_visible": true,
+        "EE_shadow": {
+          "cast": true,
+          "receive": true
+        },
+        "EE_envmap": {
+          "type": "None",
+          "envMapTextureType": "Equirectangular",
+          "envMapSourceColor": 4095,
+          "envMapSourceURL": "",
+          "envMapSourceEntityUUID": "",
+          "envMapIntensity": 1,
+          "envmap": null
+        }
+      }
+    },
+    {
+      "matrix": [
+        2,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0.5,
+        0,
+        1
+      ],
+      "name": "Trigger",
+      "extras": {
+        "name": "Box Collider"
+      },
+      "extensions": {
+        "EE_uuid": "ce5ac883-ed9a-4810-adf1-d989db67920e",
+        "EE_visible": true,
+        "EE_collider": {
+          "shape": "box",
+          "mass": 1,
+          "massCenter": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "friction": 0.5,
+          "restitution": 0.5,
+          "collisionLayer": 1,
+          "collisionMask": 7
+        },
+        "EE_rigidbody": {
+          "type": "fixed",
+          "ccd": false,
+          "allowRolling": true,
+          "enabledRotations": [
+            true,
+            true,
+            true
+          ],
+          "canSleep": true,
+          "gravityScale": 1
+        },
+        "EE_trigger": {
+          "triggers": [
+            {
+              "target": "9a88d4b8-1605-4ecf-b0a2-b083d0231c4f",
+              "onEnter": "xre.play",
+              "onExit": "xre.stop"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        -3.5,
+        1
+      ],
+      "name": "Animated_Model",
+      "extras": {
+        "name": "3D Model",
+        "src": "__$project$__/ir-engine/default-project/assets/rings.glb?hash=08af56"
+      },
+      "extensions": {
+        "EE_uuid": "3274ba7b-a03e-47ab-b260-279f399ef248",
+        "EE_visible": true,
+        "EE_model": {
+          "src": "__$project$__/ir-engine/default-project/assets/rings.glb?hash=08af56",
+          "cameraOcclusion": true,
+          "convertToVRM": false
+        },
+        "EE_input": {
+          "inputSinks": [
+            "9a88d4b8-1605-4ecf-b0a2-b083d0231c4f"
+          ],
+          "activationDistance": 2,
+          "highlight": false,
+          "grow": false,
+          "inputSources": []
+        },
+        "EE_shadow": {
+          "cast": true,
+          "receive": true
+        },
+        "EE_loop_animation": {
+          "activeClipIndex": 0,
+          "animationPack": "",
+          "enabled": true,
+          "paused": true,
+          "time": 0,
+          "timeScale": 1,
+          "blendMode": 2500,
+          "loop": 2201,
+          "repetitions": null,
+          "clampWhenFinished": false,
+          "zeroSlopeAtStart": true,
+          "zeroSlopeAtEnd": true,
+          "weight": 1,
+          "_action": null
+        },
+        "EE_envmap": {
+          "type": "Skybox",
+          "envMapTextureType": "Equirectangular",
+          "envMapSourceColor": 4095,
+          "envMapSourceURL": "",
+          "envMapSourceEntityUUID": "",
+          "envMapIntensity": 1,
+          "envmap": null
+        }
+      }
+    },
+    {
+      "name": "Animation_Trigger",
+      "extras": {
+        "name": "Animation Trigger"
+      },
+      "children": [
+        0,
+        1,
+        2
+      ],
+      "extensions": {
+        "EE_uuid": "b55d68f4-cbaa-4635-8ca4-474750215a21",
+        "EE_visible": true
+      }
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 192,
+      "target": 34962,
+      "byteStride": 8
+    },
+    {
+      "buffer": 1,
+      "byteOffset": 0,
+      "byteLength": 288,
+      "target": 34962,
+      "byteStride": 12
+    },
+    {
+      "buffer": 2,
+      "byteOffset": 0,
+      "byteLength": 288,
+      "target": 34962,
+      "byteStride": 12
+    },
+    {
+      "buffer": 3,
+      "byteOffset": 0,
+      "byteLength": 144,
+      "target": 34963
+    }
+  ],
+  "buffers": [
+    {
+      "name": "e67554d0047cfbbe990c7cfd8eda0f69c991822e2a096225a32e601957e2cb74",
+      "byteLength": 192,
+      "uri": "model-resources/animation-trigger/buffers/e67554d0047cfbbe990c7cfd8eda0f69c991822e2a096225a32e601957e2cb74.bin"
+    },
+    {
+      "name": "ee2ab6c0671ca3bcf01eba9a4818c41e37563107577749b0c12a01bb865b0d65",
+      "byteLength": 288,
+      "uri": "model-resources/animation-trigger/buffers/ee2ab6c0671ca3bcf01eba9a4818c41e37563107577749b0c12a01bb865b0d65.bin"
+    },
+    {
+      "name": "7c28d07851b934942e96f2229c36c25070eba235439836fcb9817f11fb6fec79",
+      "byteLength": 288,
+      "uri": "model-resources/animation-trigger/buffers/7c28d07851b934942e96f2229c36c25070eba235439836fcb9817f11fb6fec79.bin"
+    },
+    {
+      "name": "cfbb53488fbe149cd9ca515423f3314a76bd14e1349a67a1694d150709c83059",
+      "byteLength": 144,
+      "uri": "model-resources/animation-trigger/buffers/cfbb53488fbe149cd9ca515423f3314a76bd14e1349a67a1694d150709c83059.bin"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 24,
+      "max": [
+        0.87493896484375,
+        1
+      ],
+      "min": [
+        0.125,
+        0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 24,
+      "max": [
+        1,
+        1.0000001192092896,
+        1
+      ],
+      "min": [
+        -1,
+        -0.9999998807907104,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 24,
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5125,
+      "count": 36,
+      "max": [
+        23
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "materials": [
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "name": "Material.002",
+      "extras": {
+        "plugins": [],
+        "CSMPlugin": {
+          "id": "CSM0.554422700265135",
+          "priority": 1
+        }
+      },
+      "extensions": {
+        "EE_material": {
+          "uuid": "488d0c9e-9a0f-45f1-a345-e2fd2d83509b",
+          "name": "Material.002",
+          "prototype": "MeshStandardMaterial",
+          "plugins": [],
+          "args": {
+            "alphaTest": {
+              "type": "float",
+              "contents": 0
+            },
+            "alphaMap": {
+              "type": "texture",
+              "contents": null
+            },
+            "map": {
+              "type": "texture",
+              "contents": null
+            },
+            "color": {
+              "type": "color",
+              "contents": 16711680
+            },
+            "opacity": {
+              "type": "float",
+              "contents": 0.25
+            },
+            "blending": {
+              "type": "select",
+              "contents": 1
+            },
+            "depthTest": {
+              "type": "boolean",
+              "contents": true
+            },
+            "depthWrite": {
+              "type": "boolean",
+              "contents": true
+            },
+            "side": {
+              "type": "select",
+              "contents": 2
+            },
+            "toneMapped": {
+              "type": "boolean",
+              "contents": true
+            },
+            "transparent": {
+              "type": "boolean",
+              "contents": true
+            },
+            "vertexColors": {
+              "type": "boolean",
+              "contents": false
+            },
+            "emissive": {
+              "type": "color",
+              "contents": 0
+            },
+            "emissiveMap": {
+              "type": "texture",
+              "contents": null
+            },
+            "emissiveIntensity": {
+              "type": "float",
+              "contents": 1
+            },
+            "combine": {
+              "type": "select"
+            },
+            "envMap": {
+              "type": "texture",
+              "contents": null
+            },
+            "envMapIntensity": {
+              "type": "float",
+              "contents": 1
+            },
+            "reflectivity": {
+              "type": "float"
+            },
+            "refractionRatio": {
+              "type": "float"
+            },
+            "normalMap": {
+              "type": "texture",
+              "contents": null
+            },
+            "normalMapType": {
+              "type": "select",
+              "contents": 0
+            },
+            "normalScale": {
+              "type": "vec2",
+              "contents": {
+                "x": 1,
+                "y": 1
+              }
+            },
+            "bumpMap": {
+              "type": "texture",
+              "contents": null
+            },
+            "bumpScale": {
+              "type": "float",
+              "contents": 1
+            },
+            "displacementMap": {
+              "type": "texture",
+              "contents": null
+            },
+            "displacementScale": {
+              "type": "float",
+              "contents": 1
+            },
+            "displacementBias": {
+              "type": "float",
+              "contents": 0
+            },
+            "roughness": {
+              "type": "float",
+              "contents": 0.4000000059604645
+            },
+            "roughnessMap": {
+              "type": "texture",
+              "contents": null
+            },
+            "metalness": {
+              "type": "float",
+              "contents": 0
+            },
+            "metalnessMap": {
+              "type": "texture",
+              "contents": null
+            },
+            "aoMap": {
+              "type": "texture",
+              "contents": null
+            },
+            "aoMapIntensity": {
+              "type": "float",
+              "contents": 1
+            },
+            "lightMap": {
+              "type": "texture",
+              "contents": null
+            },
+            "lightMapIntensity": {
+              "type": "float",
+              "contents": 1
+            }
+          }
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "TEXCOORD_0": 0,
+            "POSITION": 1,
+            "NORMAL": 2
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ],
+      "extensions": {
+        "EE_resourceId": {
+          "resourceId": "aab25099-372e-4b5d-9dc0-88cbf8e7c06a"
+        }
+      }
+    }
+  ],
+  "extensionsUsed": [
+    "EE_material",
+    "EE_resourceId",
+    "EE_uuid",
+    "EE_visible",
+    "EE_shadow",
+    "EE_envmap",
+    "EE_ecs",
+    "EE_collider",
+    "EE_rigidbody",
+    "EE_trigger",
+    "EE_model",
+    "EE_input",
+    "EE_loop_animation"
+  ]
+}
