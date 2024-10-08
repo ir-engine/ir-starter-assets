@@ -488,31 +488,6 @@
           "envMapIntensity": 1
         }
       }
-    },
-    {
-      "name": "New Object",
-      "extensions": {
-        "EE_uuid": "99c18200-317d-4027-ad2c-239009392658",
-        "EE_visible": true
-      },
-      "matrix": [
-        1,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        0,
-        0,
-        0,
-        1
-      ]
     }
   ],
   "extensionsUsed": [

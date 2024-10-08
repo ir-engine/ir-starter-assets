@@ -12,7 +12,8 @@
         3,
         4,
         5,
-        6
+        6,
+        7
       ]
     }
   ],
@@ -492,27 +493,27 @@
     {
       "name": "New Object",
       "extensions": {
-        "EE_uuid": "99c18200-317d-4027-ad2c-239009392658",
+        "EE_model": {
+          "src": "__$project$__/ir-engine/ir-starter-assets/assets/prefabs/collider-toggle.gltf?hash=64dcdb",
+          "cameraOcclusion": true,
+          "convertToVRM": false
+        },
+        "EE_shadow": {
+          "cast": true,
+          "receive": true
+        },
+        "EE_envmap": {
+          "type": "None",
+          "envMapTextureType": "Equirectangular",
+          "envMapSourceColor": 4095,
+          "envMapSourceURL": "",
+          "envMapSourceEntityUUID": "",
+          "envMapIntensity": 1,
+          "envmap": null
+        },
+        "EE_uuid": "2e2f2148-f6bf-46fd-9da9-9ea5daf64e86",
         "EE_visible": true
-      },
-      "matrix": [
-        1,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        0,
-        0,
-        0,
-        1
-      ]
+      }
     }
   ],
   "extensionsUsed": [
