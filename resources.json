@@ -990,7 +990,7 @@
     "dependencies": []
   },
   "assets/prefabs/variant-switch.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model"
     ],

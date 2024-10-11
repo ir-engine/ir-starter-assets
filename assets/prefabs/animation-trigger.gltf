@@ -5,12 +5,12 @@
   },
   "scenes": [
     {
-      "name": "New Object",
+      "name": "animation-trigger",
       "nodes": [
         3
       ],
       "extras": {
-        "src": "__$project$__/ir-engine/ir-starter-assets/assets/prefabs/animation-trigger.gltf"
+        "src": "__$project$__/ir-engine/ir-starter-assets/assets/prefabs/animation-trigger.gltf?hash=582f5c"
       }
     }
   ],
@@ -23,8 +23,8 @@
         0,
         0,
         0,
-        -1.343588558829462e-7,
-        0.9999999657714532,
+        -1.3435885588294621e-7,
+        0.9999999657714534,
         0,
         0,
         -0.4999999999999955,
@@ -36,9 +36,6 @@
         1
       ],
       "name": "Geo",
-      "extras": {
-        "name": "Box"
-      },
       "mesh": 0,
       "extensions": {
         "EE_uuid": "cba5143f-e128-4b67-ba0e-bfa2e0938376",
@@ -78,9 +75,6 @@
         1
       ],
       "name": "Trigger",
-      "extras": {
-        "name": "Box Collider"
-      },
       "extensions": {
         "EE_uuid": "ce5ac883-ed9a-4810-adf1-d989db67920e",
         "EE_visible": true,
@@ -112,7 +106,7 @@
         "EE_trigger": {
           "triggers": [
             {
-              "target": "9a88d4b8-1605-4ecf-b0a2-b083d0231c4f",
+              "target": "3274ba7b-a03e-47ab-b260-279f399ef248",
               "onEnter": "xre.play",
               "onExit": "xre.stop"
             }
@@ -141,7 +135,6 @@
       ],
       "name": "Animated_Model",
       "extras": {
-        "name": "3D Model",
         "src": "__$project$__/ir-engine/default-project/assets/rings.glb?hash=08af56"
       },
       "extensions": {
@@ -194,9 +187,6 @@
     },
     {
       "name": "Animation_Trigger",
-      "extras": {
-        "name": "Animation Trigger"
-      },
       "children": [
         0,
         1,
@@ -327,7 +317,7 @@
       "extras": {
         "plugins": [],
         "CSMPlugin": {
-          "id": "CSM0.554422700265135",
+          "id": "CSM0.2348575917109541",
           "priority": 1
         }
       },
@@ -427,7 +417,7 @@
               "type": "vec2",
               "contents": {
                 "x": 1,
-                "y": 1
+                "y": -1
               }
             },
             "bumpMap": {
@@ -503,7 +493,7 @@
       ],
       "extensions": {
         "EE_resourceId": {
-          "resourceId": "aab25099-372e-4b5d-9dc0-88cbf8e7c06a"
+          "resourceId": "6b17b0c3-4925-4f4c-b1d1-c93703989a7a"
         }
       }
     }
