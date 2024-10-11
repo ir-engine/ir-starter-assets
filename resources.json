@@ -757,6 +757,265 @@
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_models_textures_Wood_Furniture_modular_Normal_OpenGL.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
+  "assets/prefabs/animation-trigger.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_prefabs_animation-trigger.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/prefabs/audio-trigger.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_prefabs_audio-trigger.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/prefabs/change-scene.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_prefabs_change-scene.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/prefabs/collider-toggle.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_prefabs_collider-toggle.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/prefabs/model-resources/animation-trigger/buffers/7c28d07851b934942e96f2229c36c25070eba235439836fcb9817f11fb6fec79.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/prefabs/model-resources/animation-trigger/buffers/cfbb53488fbe149cd9ca515423f3314a76bd14e1349a67a1694d150709c83059.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/prefabs/model-resources/animation-trigger/buffers/e67554d0047cfbbe990c7cfd8eda0f69c991822e2a096225a32e601957e2cb74.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/prefabs/model-resources/animation-trigger/buffers/ee2ab6c0671ca3bcf01eba9a4818c41e37563107577749b0c12a01bb865b0d65.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/prefabs/model-resources/audio-trigger/buffers/7c28d07851b934942e96f2229c36c25070eba235439836fcb9817f11fb6fec79.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/prefabs/model-resources/audio-trigger/buffers/cfbb53488fbe149cd9ca515423f3314a76bd14e1349a67a1694d150709c83059.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/prefabs/model-resources/audio-trigger/buffers/e67554d0047cfbbe990c7cfd8eda0f69c991822e2a096225a32e601957e2cb74.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/prefabs/model-resources/audio-trigger/buffers/ee2ab6c0671ca3bcf01eba9a4818c41e37563107577749b0c12a01bb865b0d65.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/prefabs/model-resources/change-scene/buffers/7c28d07851b934942e96f2229c36c25070eba235439836fcb9817f11fb6fec79.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/prefabs/model-resources/change-scene/buffers/cfbb53488fbe149cd9ca515423f3314a76bd14e1349a67a1694d150709c83059.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/prefabs/model-resources/change-scene/buffers/e67554d0047cfbbe990c7cfd8eda0f69c991822e2a096225a32e601957e2cb74.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/prefabs/model-resources/change-scene/buffers/ee2ab6c0671ca3bcf01eba9a4818c41e37563107577749b0c12a01bb865b0d65.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/prefabs/model-resources/collider-toggle/buffers/7c28d07851b934942e96f2229c36c25070eba235439836fcb9817f11fb6fec79.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/prefabs/model-resources/collider-toggle/buffers/cfbb53488fbe149cd9ca515423f3314a76bd14e1349a67a1694d150709c83059.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/prefabs/model-resources/collider-toggle/buffers/e67554d0047cfbbe990c7cfd8eda0f69c991822e2a096225a32e601957e2cb74.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/prefabs/model-resources/collider-toggle/buffers/ee2ab6c0671ca3bcf01eba9a4818c41e37563107577749b0c12a01bb865b0d65.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/prefabs/model-resources/variant-switch/buffers/7c28d07851b934942e96f2229c36c25070eba235439836fcb9817f11fb6fec79.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/prefabs/model-resources/variant-switch/buffers/cfbb53488fbe149cd9ca515423f3314a76bd14e1349a67a1694d150709c83059.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/prefabs/model-resources/variant-switch/buffers/e67554d0047cfbbe990c7cfd8eda0f69c991822e2a096225a32e601957e2cb74.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/prefabs/model-resources/variant-switch/buffers/ee2ab6c0671ca3bcf01eba9a4818c41e37563107577749b0c12a01bb865b0d65.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/prefabs/model-resources/video-trigger/buffers/7c28d07851b934942e96f2229c36c25070eba235439836fcb9817f11fb6fec79.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/prefabs/model-resources/video-trigger/buffers/cfbb53488fbe149cd9ca515423f3314a76bd14e1349a67a1694d150709c83059.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/prefabs/model-resources/video-trigger/buffers/e67554d0047cfbbe990c7cfd8eda0f69c991822e2a096225a32e601957e2cb74.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/prefabs/model-resources/video-trigger/buffers/ee2ab6c0671ca3bcf01eba9a4818c41e37563107577749b0c12a01bb865b0d65.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/prefabs/model-resources/visibility-trigger/buffers/7c28d07851b934942e96f2229c36c25070eba235439836fcb9817f11fb6fec79.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/prefabs/model-resources/visibility-trigger/buffers/cfbb53488fbe149cd9ca515423f3314a76bd14e1349a67a1694d150709c83059.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/prefabs/model-resources/visibility-trigger/buffers/e67554d0047cfbbe990c7cfd8eda0f69c991822e2a096225a32e601957e2cb74.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/prefabs/model-resources/visibility-trigger/buffers/ee2ab6c0671ca3bcf01eba9a4818c41e37563107577749b0c12a01bb865b0d65.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/prefabs/variant-switch.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_prefabs_variant-switch.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/prefabs/video-trigger.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_prefabs_video-trigger.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/prefabs/visibility-trigger.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_prefabs_visibility-trigger.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
   "assets/skyboxes/arctic/Arctic_aurora_01.lookdev.gltf": {
     "type": "asset",
     "tags": [
