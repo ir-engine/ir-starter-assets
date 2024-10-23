@@ -760,7 +760,7 @@
   "assets/prefabs/animation-trigger.gltf": {
     "type": "asset",
     "tags": [
-      "Model"
+      "prefab"
     ],
     "dependencies": [],
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_prefabs_animation-trigger.gltf-thumbnail.png",
@@ -769,7 +769,7 @@
   "assets/prefabs/audio-trigger.gltf": {
     "type": "asset",
     "tags": [
-      "Model"
+      "prefab"
     ],
     "dependencies": [],
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_prefabs_audio-trigger.gltf-thumbnail.png",
@@ -778,7 +778,7 @@
   "assets/prefabs/change-scene.gltf": {
     "type": "asset",
     "tags": [
-      "Model"
+      "prefab"
     ],
     "dependencies": [],
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_prefabs_change-scene.gltf-thumbnail.png",
@@ -787,7 +787,7 @@
   "assets/prefabs/collider-toggle.gltf": {
     "type": "asset",
     "tags": [
-      "Model"
+      "prefab"
     ],
     "dependencies": [],
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_prefabs_collider-toggle.gltf-thumbnail.png",
@@ -992,7 +992,7 @@
   "assets/prefabs/variant-switch.gltf": {
     "type": "asset",
     "tags": [
-      "Model"
+      "prefab"
     ],
     "dependencies": [],
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_prefabs_variant-switch.gltf-thumbnail.png",
@@ -1001,7 +1001,7 @@
   "assets/prefabs/video-trigger.gltf": {
     "type": "asset",
     "tags": [
-      "Model"
+      "prefab"
     ],
     "dependencies": [],
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_prefabs_video-trigger.gltf-thumbnail.png",
@@ -1010,7 +1010,7 @@
   "assets/prefabs/visibility-trigger.gltf": {
     "type": "asset",
     "tags": [
-      "Model"
+      "prefab"
     ],
     "dependencies": [],
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_prefabs_visibility-trigger.gltf-thumbnail.png",
