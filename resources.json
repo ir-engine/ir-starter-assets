@@ -763,8 +763,8 @@
       "prefab"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_prefabs_animation-trigger.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/Component_thumb_placeholder.png",
+    "thumbnailMode": "custom"
   },
   "assets/prefabs/audio-trigger.gltf": {
     "type": "asset",
@@ -772,8 +772,8 @@
       "prefab"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_prefabs_audio-trigger.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/Component_thumb_placeholder.png",
+    "thumbnailMode": "custom"
   },
   "assets/prefabs/change-scene.gltf": {
     "type": "asset",
@@ -781,8 +781,8 @@
       "prefab"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_prefabs_change-scene.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/Component_thumb_placeholder.png",
+    "thumbnailMode": "custom"
   },
   "assets/prefabs/collider-toggle.gltf": {
     "type": "asset",
@@ -790,8 +790,8 @@
       "prefab"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_prefabs_collider-toggle.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/Component_thumb_placeholder.png",
+    "thumbnailMode": "custom"
   },
   "assets/prefabs/model-resources/animation-trigger/buffers/7c28d07851b934942e96f2229c36c25070eba235439836fcb9817f11fb6fec79.bin": {
     "type": "file",
@@ -995,8 +995,8 @@
       "prefab"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_prefabs_variant-switch.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/Component_thumb_placeholder.png",
+    "thumbnailMode": "custom"
   },
   "assets/prefabs/video-trigger.gltf": {
     "type": "asset",
@@ -1004,8 +1004,8 @@
       "prefab"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_prefabs_video-trigger.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/Component_thumb_placeholder.png",
+    "thumbnailMode": "custom"
   },
   "assets/prefabs/visibility-trigger.gltf": {
     "type": "asset",
@@ -1013,8 +1013,8 @@
       "prefab"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_prefabs_visibility-trigger.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/Component_thumb_placeholder.png",
+    "thumbnailMode": "custom"
   },
   "assets/skyboxes/arctic/Arctic_aurora_01.lookdev.gltf": {
     "type": "asset",
