@@ -145,15 +145,6 @@
           "cameraOcclusion": true,
           "convertToVRM": false
         },
-        "EE_input": {
-          "inputSinks": [
-            "9a88d4b8-1605-4ecf-b0a2-b083d0231c4f"
-          ],
-          "activationDistance": 2,
-          "highlight": false,
-          "grow": false,
-          "inputSources": []
-        },
         "EE_shadow": {
           "cast": true,
           "receive": true
@@ -510,7 +501,6 @@
     "EE_rigidbody",
     "EE_trigger",
     "EE_model",
-    "EE_input",
     "EE_loop_animation"
   ]
 }
