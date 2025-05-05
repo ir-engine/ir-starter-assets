@@ -5,6 +5,7 @@
       "Material"
     ],
     "dependencies": [],
+    "name": "balloon-physical.material.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsballoon-physical.material.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -14,6 +15,7 @@
       "Material"
     ],
     "dependencies": [],
+    "name": "bark.material.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsbark.material.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -23,6 +25,7 @@
       "Material"
     ],
     "dependencies": [],
+    "name": "brass.material.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsbrass.material.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -32,6 +35,7 @@
       "Material"
     ],
     "dependencies": [],
+    "name": "cloth.material.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialscloth.material.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -41,6 +45,7 @@
       "Material"
     ],
     "dependencies": [],
+    "name": "copper.material.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialscopper.material.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -50,6 +55,7 @@
       "Material"
     ],
     "dependencies": [],
+    "name": "dirt.material.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsdirt.material.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -59,6 +65,7 @@
       "Material"
     ],
     "dependencies": [],
+    "name": "glass-physical.material.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsglass-physical.material.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -68,6 +75,7 @@
       "Material"
     ],
     "dependencies": [],
+    "name": "glass.material.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsglass.material.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -77,6 +85,7 @@
       "Material"
     ],
     "dependencies": [],
+    "name": "glow.material.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsglow.material.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -86,6 +95,7 @@
       "Material"
     ],
     "dependencies": [],
+    "name": "gold.material.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsgold.material.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -95,6 +105,7 @@
       "Material"
     ],
     "dependencies": [],
+    "name": "grass.material.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsgrass.material.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -104,6 +115,7 @@
       "Material"
     ],
     "dependencies": [],
+    "name": "iron.material.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsiron.material.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -113,6 +125,7 @@
       "Material"
     ],
     "dependencies": [],
+    "name": "marble.material.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsmarble.material.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -122,6 +135,7 @@
       "Material"
     ],
     "dependencies": [],
+    "name": "plastic-blue-physical.material.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsplastic-blue-physical.material.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -131,6 +145,7 @@
       "Material"
     ],
     "dependencies": [],
+    "name": "platinum.material.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsplatinum.material.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -140,6 +155,7 @@
       "Material"
     ],
     "dependencies": [],
+    "name": "rubber.material.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsrubber.material.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -149,6 +165,7 @@
       "Material"
     ],
     "dependencies": [],
+    "name": "sand.material.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialssand.material.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -158,6 +175,7 @@
       "Material"
     ],
     "dependencies": [],
+    "name": "silver.material.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialssilver.material.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -167,6 +185,7 @@
       "Material"
     ],
     "dependencies": [],
+    "name": "snow.material.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialssnow.material.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -176,6 +195,7 @@
       "Material"
     ],
     "dependencies": [],
+    "name": "stone.material.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsstone.material.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -185,6 +205,7 @@
       "Material"
     ],
     "dependencies": [],
+    "name": "titanium.material.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialstitanium.material.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -194,6 +215,7 @@
       "Material"
     ],
     "dependencies": [],
+    "name": "wood.material.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialswood.material.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -208,8 +230,12 @@
     ],
     "dependencies": [],
     "description": "asdfasdfasdfasdfasdfafwefawef",
+    "name": "artistic_tree_01.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsartistic_tree_01.glb-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 1.89,
+    "height": 6.5,
+    "depth": 0.96
   },
   "assets/models/artistic_tree_02.glb": {
     "type": "asset",
@@ -221,8 +247,12 @@
       "tree"
     ],
     "dependencies": [],
+    "name": "artistic_tree_02.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsartistic_tree_02.glb-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 1.31,
+    "height": 6.5,
+    "depth": 1.07
   },
   "assets/models/artistic_tree_03.glb": {
     "type": "asset",
@@ -234,8 +264,12 @@
       "tree"
     ],
     "dependencies": [],
+    "name": "artistic_tree_03.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsartistic_tree_03.glb-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 2.27,
+    "height": 6.5,
+    "depth": 0.96
   },
   "assets/models/artistic_tree_04.glb": {
     "type": "asset",
@@ -247,8 +281,12 @@
       "tree"
     ],
     "dependencies": [],
+    "name": "artistic_tree_04.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsartistic_tree_04.glb-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 1.31,
+    "height": 6.5,
+    "depth": 0.96
   },
   "assets/models/artistic_tree_05.glb": {
     "type": "asset",
@@ -260,8 +298,12 @@
       "tree"
     ],
     "dependencies": [],
+    "name": "artistic_tree_05.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsartistic_tree_05.glb-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 1.51,
+    "height": 6.5,
+    "depth": 1.17
   },
   "assets/models/artistic_tree_06.glb": {
     "type": "asset",
@@ -273,8 +315,12 @@
       "tree"
     ],
     "dependencies": [],
+    "name": "artistic_tree_06.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsartistic_tree_06.glb-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 0.96,
+    "height": 6.5,
+    "depth": 0.96
   },
   "assets/models/artistic_tree_07.glb": {
     "type": "asset",
@@ -286,8 +332,12 @@
       "tree"
     ],
     "dependencies": [],
+    "name": "artistic_tree_07.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsartistic_tree_07.glb-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 0.96,
+    "height": 6.54,
+    "depth": 0.96
   },
   "assets/models/block_folly_1.glb": {
     "type": "asset",
@@ -302,8 +352,12 @@
       "stage"
     ],
     "dependencies": [],
+    "name": "block_folly_1.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsblock_folly_1.glb-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 12.27,
+    "height": 5.14,
+    "depth": 14.13
   },
   "assets/models/block_folly_2.glb": {
     "type": "asset",
@@ -318,8 +372,12 @@
       "stage"
     ],
     "dependencies": [],
+    "name": "block_folly_2.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsblock_folly_2.glb-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 15.85,
+    "height": 6.42,
+    "depth": 14
   },
   "assets/models/concrete_big_diff.jpg": {
     "type": "asset",
@@ -327,6 +385,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "concrete_big_diff.jpg",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_models_concrete_big_diff.jpg-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -343,8 +402,12 @@
       "stage"
     ],
     "dependencies": [],
+    "name": "cube_folly.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelscube_folly.glb-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 16.33,
+    "height": 11.25,
+    "depth": 24.8
   },
   "assets/models/curved_folly_1.glb": {
     "type": "asset",
@@ -359,8 +422,12 @@
       "stage"
     ],
     "dependencies": [],
+    "name": "curved_folly_1.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelscurved_folly_1.glb-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 7.37,
+    "height": 2.2,
+    "depth": 11.92
   },
   "assets/models/curved_folly_2_small.glb": {
     "type": "asset",
@@ -375,8 +442,12 @@
       "stage"
     ],
     "dependencies": [],
+    "name": "curved_folly_2_small.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelscurved_folly_2_small.glb-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 6.74,
+    "height": 7.56,
+    "depth": 7.34
   },
   "assets/models/curved_folly_2.glb": {
     "type": "asset",
@@ -391,8 +462,12 @@
       "stage"
     ],
     "dependencies": [],
+    "name": "curved_folly_2.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelscurved_folly_2.glb-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 14.32,
+    "height": 7.68,
+    "depth": 7.34
   },
   "assets/models/curved_folly_3.glb": {
     "type": "asset",
@@ -407,8 +482,12 @@
       "stage"
     ],
     "dependencies": [],
+    "name": "curved_folly_3.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelscurved_folly_3.glb-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 29.88,
+    "height": 5.3,
+    "depth": 21.34
   },
   "assets/models/Curved_screen_med.glb": {
     "type": "asset",
@@ -420,8 +499,12 @@
       "primitive"
     ],
     "dependencies": [],
+    "name": "Curved_screen_med.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsCurved_screen_med.glb-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 10,
+    "height": 5,
+    "depth": 5
   },
   "assets/models/Curved_screen_tall.glb": {
     "type": "asset",
@@ -433,8 +516,12 @@
       "primitive"
     ],
     "dependencies": [],
+    "name": "Curved_screen_tall.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsCurved_screen_tall.glb-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 10,
+    "height": 10,
+    "depth": 5
   },
   "assets/models/Dome.glb": {
     "type": "asset",
@@ -446,15 +533,20 @@
       "primitive"
     ],
     "dependencies": [],
+    "name": "Dome.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsDome.glb-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 100,
+    "height": 100,
+    "depth": 100
   },
   "assets/models/floor_deco.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "floor_deco.bin"
   },
   "assets/models/floor_deco.gltf": {
     "type": "asset",
@@ -462,8 +554,12 @@
       "Model"
     ],
     "dependencies": [],
+    "name": "floor_deco.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_models_floor_deco.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 40.81,
+    "height": 0.58,
+    "depth": 69.04
   },
   "assets/models/folly_v4.glb": {
     "type": "asset",
@@ -478,15 +574,20 @@
       "stage"
     ],
     "dependencies": [],
+    "name": "folly_v4.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsfolly_v4.glb-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 23.1,
+    "height": 5.3,
+    "depth": 21.34
   },
   "assets/models/fractal_arch_grooves.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "fractal_arch_grooves.bin"
   },
   "assets/models/fractal_arch_grooves.gltf": {
     "type": "asset",
@@ -494,15 +595,20 @@
       "Model"
     ],
     "dependencies": [],
+    "name": "fractal_arch_grooves.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_models_fractal_arch_grooves.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 176.93,
+    "height": 41.86,
+    "depth": 93.25
   },
   "assets/models/fractal_arch_smooth.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "fractal_arch_smooth.bin"
   },
   "assets/models/fractal_arch_smooth.gltf": {
     "type": "asset",
@@ -510,15 +616,20 @@
       "Model"
     ],
     "dependencies": [],
+    "name": "fractal_arch_smooth.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_models_fractal_arch_smooth.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 198.09,
+    "height": 48.78,
+    "depth": 105.21
   },
   "assets/models/fractal_arch.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "fractal_arch.bin"
   },
   "assets/models/fractal_arch.gltf": {
     "type": "asset",
@@ -526,15 +637,20 @@
       "Model"
     ],
     "dependencies": [],
+    "name": "fractal_arch.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_models_fractal_arch.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 260.1,
+    "height": 61.54,
+    "depth": 137.08
   },
   "assets/models/fractal_pergola_01.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "fractal_pergola_01.bin"
   },
   "assets/models/fractal_pergola_01.gltf": {
     "type": "asset",
@@ -542,8 +658,12 @@
       "Model"
     ],
     "dependencies": [],
+    "name": "fractal_pergola_01.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_models_fractal_pergola_01.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 55.81,
+    "height": 20.87,
+    "depth": 18.83
   },
   "assets/models/Ground_100x100.glb": {
     "type": "asset",
@@ -555,8 +675,12 @@
       "primitive"
     ],
     "dependencies": [],
+    "name": "Ground_100x100.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsGround_100x100.glb-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 100,
+    "height": 0,
+    "depth": 100
   },
   "assets/models/Ground_10x10.glb": {
     "type": "asset",
@@ -568,8 +692,12 @@
       "primitive"
     ],
     "dependencies": [],
+    "name": "Ground_10x10.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsGround_10x10.glb-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 10,
+    "height": 0,
+    "depth": 10
   },
   "assets/models/Ground_1x1.glb": {
     "type": "asset",
@@ -581,8 +709,12 @@
       "primitive"
     ],
     "dependencies": [],
+    "name": "Ground_1x1.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsGround_1x1.glbhash480456-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 1,
+    "height": 0,
+    "depth": 1
   },
   "assets/models/Ground_cylinder.glb": {
     "type": "asset",
@@ -594,8 +726,12 @@
       "primitive"
     ],
     "dependencies": [],
+    "name": "Ground_cylinder.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsGround_cylinder.glb-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 1,
+    "height": 1,
+    "depth": 1
   },
   "assets/models/Half_dome.glb": {
     "type": "asset",
@@ -607,8 +743,12 @@
       "primitive"
     ],
     "dependencies": [],
+    "name": "Half_dome.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsHalf_dome.glb-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 100,
+    "height": 50,
+    "depth": 100
   },
   "assets/models/Natural_Store_demo_large1.glb": {
     "type": "asset",
@@ -622,8 +762,12 @@
       "minimal"
     ],
     "dependencies": [],
+    "name": "Natural_Store_demo_large1.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNatural_Store_demo_large1.glb-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 20.1,
+    "height": 8.3,
+    "depth": 20.22
   },
   "assets/models/Natural_Store_demo_large2.glb": {
     "type": "asset",
@@ -637,8 +781,12 @@
       "minimal"
     ],
     "dependencies": [],
+    "name": "Natural_Store_demo_large2.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNatural_Store_demo_large2.glb-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 28.05,
+    "height": 8.3,
+    "depth": 20.22
   },
   "assets/models/Natural_Store_demo_medium1.glb": {
     "type": "asset",
@@ -652,8 +800,12 @@
       "minimal"
     ],
     "dependencies": [],
+    "name": "Natural_Store_demo_medium1.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNatural_Store_demo_medium1.glb-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 16.14,
+    "height": 4.15,
+    "depth": 12.22
   },
   "assets/models/Natural_Store_demo_medium2.glb": {
     "type": "asset",
@@ -667,8 +819,12 @@
       "minimal"
     ],
     "dependencies": [],
+    "name": "Natural_Store_demo_medium2.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNatural_Store_demo_medium2.glb-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 16.75,
+    "height": 4.1,
+    "depth": 12.25
   },
   "assets/models/Natural_Store_demo_medium3.glb": {
     "type": "asset",
@@ -682,8 +838,12 @@
       "minimal"
     ],
     "dependencies": [],
+    "name": "Natural_Store_demo_medium3.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNatural_Store_demo_medium3.glb-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 16.1,
+    "height": 8.3,
+    "depth": 12.1
   },
   "assets/models/Natural_Store_demo_small1.glb": {
     "type": "asset",
@@ -697,8 +857,12 @@
       "minimal"
     ],
     "dependencies": [],
+    "name": "Natural_Store_demo_small1.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_models_Natural_Store_demo_small1.glb-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 8.1,
+    "height": 4.5,
+    "depth": 12.22
   },
   "assets/models/Natural_Store_demo_small2.glb": {
     "type": "asset",
@@ -712,8 +876,12 @@
       "minimal"
     ],
     "dependencies": [],
+    "name": "Natural_Store_demo_small2.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNatural_Store_demo_small2.glb-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 12,
+    "height": 4.46,
+    "depth": 10
   },
   "assets/models/Natural_Store_demo_small3.glb": {
     "type": "asset",
@@ -727,8 +895,12 @@
       "minimal"
     ],
     "dependencies": [],
+    "name": "Natural_Store_demo_small3.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNatural_Store_demo_small3.glb-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 8.1,
+    "height": 4.18,
+    "depth": 12.12
   },
   "assets/models/textures/Wood_Furniture_modular_Base_color.png": {
     "type": "asset",
@@ -736,6 +908,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "Wood_Furniture_modular_Base_color.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_models_textures_Wood_Furniture_modular_Base_color.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -745,6 +918,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "Wood_Furniture_modular_Metallic-Wood_Furniture_modular_Roughness.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_models_textures_Wood_Furniture_modular_Metallic-Wood_Furniture_modular_Roughness.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -754,6 +928,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "Wood_Furniture_modular_Normal_OpenGL.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_models_textures_Wood_Furniture_modular_Normal_OpenGL.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -763,8 +938,12 @@
       "prefab"
     ],
     "dependencies": [],
+    "name": "animation-trigger.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/Component_thumb_placeholder.png",
-    "thumbnailMode": "custom"
+    "thumbnailMode": "custom",
+    "width": 2,
+    "height": 1,
+    "depth": 2
   },
   "assets/prefabs/audio-trigger.gltf": {
     "type": "asset",
@@ -772,8 +951,12 @@
       "prefab"
     ],
     "dependencies": [],
+    "name": "audio-trigger.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/Component_thumb_placeholder.png",
-    "thumbnailMode": "custom"
+    "thumbnailMode": "custom",
+    "width": 2,
+    "height": 1,
+    "depth": 2
   },
   "assets/prefabs/change-scene.gltf": {
     "type": "asset",
@@ -781,8 +964,12 @@
       "prefab"
     ],
     "dependencies": [],
+    "name": "change-scene.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/Component_thumb_placeholder.png",
-    "thumbnailMode": "custom"
+    "thumbnailMode": "custom",
+    "width": 2,
+    "height": 1,
+    "depth": 2
   },
   "assets/prefabs/collider-toggle.gltf": {
     "type": "asset",
@@ -790,204 +977,236 @@
       "prefab"
     ],
     "dependencies": [],
+    "name": "collider-toggle.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/Component_thumb_placeholder.png",
-    "thumbnailMode": "custom"
+    "thumbnailMode": "custom",
+    "width": 6,
+    "height": 1,
+    "depth": 2
   },
   "assets/prefabs/model-resources/animation-trigger/buffers/7c28d07851b934942e96f2229c36c25070eba235439836fcb9817f11fb6fec79.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "7c28d07851b934942e96f2229c36c25070eba235439836fcb9817f11fb6fec79.bin"
   },
   "assets/prefabs/model-resources/animation-trigger/buffers/cfbb53488fbe149cd9ca515423f3314a76bd14e1349a67a1694d150709c83059.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "cfbb53488fbe149cd9ca515423f3314a76bd14e1349a67a1694d150709c83059.bin"
   },
   "assets/prefabs/model-resources/animation-trigger/buffers/e67554d0047cfbbe990c7cfd8eda0f69c991822e2a096225a32e601957e2cb74.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "e67554d0047cfbbe990c7cfd8eda0f69c991822e2a096225a32e601957e2cb74.bin"
   },
   "assets/prefabs/model-resources/animation-trigger/buffers/ee2ab6c0671ca3bcf01eba9a4818c41e37563107577749b0c12a01bb865b0d65.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "ee2ab6c0671ca3bcf01eba9a4818c41e37563107577749b0c12a01bb865b0d65.bin"
   },
   "assets/prefabs/model-resources/audio-trigger/buffers/7c28d07851b934942e96f2229c36c25070eba235439836fcb9817f11fb6fec79.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "7c28d07851b934942e96f2229c36c25070eba235439836fcb9817f11fb6fec79.bin"
   },
   "assets/prefabs/model-resources/audio-trigger/buffers/cfbb53488fbe149cd9ca515423f3314a76bd14e1349a67a1694d150709c83059.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "cfbb53488fbe149cd9ca515423f3314a76bd14e1349a67a1694d150709c83059.bin"
   },
   "assets/prefabs/model-resources/audio-trigger/buffers/e67554d0047cfbbe990c7cfd8eda0f69c991822e2a096225a32e601957e2cb74.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "e67554d0047cfbbe990c7cfd8eda0f69c991822e2a096225a32e601957e2cb74.bin"
   },
   "assets/prefabs/model-resources/audio-trigger/buffers/ee2ab6c0671ca3bcf01eba9a4818c41e37563107577749b0c12a01bb865b0d65.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "ee2ab6c0671ca3bcf01eba9a4818c41e37563107577749b0c12a01bb865b0d65.bin"
   },
   "assets/prefabs/model-resources/change-scene/buffers/7c28d07851b934942e96f2229c36c25070eba235439836fcb9817f11fb6fec79.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "7c28d07851b934942e96f2229c36c25070eba235439836fcb9817f11fb6fec79.bin"
   },
   "assets/prefabs/model-resources/change-scene/buffers/cfbb53488fbe149cd9ca515423f3314a76bd14e1349a67a1694d150709c83059.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "cfbb53488fbe149cd9ca515423f3314a76bd14e1349a67a1694d150709c83059.bin"
   },
   "assets/prefabs/model-resources/change-scene/buffers/e67554d0047cfbbe990c7cfd8eda0f69c991822e2a096225a32e601957e2cb74.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "e67554d0047cfbbe990c7cfd8eda0f69c991822e2a096225a32e601957e2cb74.bin"
   },
   "assets/prefabs/model-resources/change-scene/buffers/ee2ab6c0671ca3bcf01eba9a4818c41e37563107577749b0c12a01bb865b0d65.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "ee2ab6c0671ca3bcf01eba9a4818c41e37563107577749b0c12a01bb865b0d65.bin"
   },
   "assets/prefabs/model-resources/collider-toggle/buffers/7c28d07851b934942e96f2229c36c25070eba235439836fcb9817f11fb6fec79.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "7c28d07851b934942e96f2229c36c25070eba235439836fcb9817f11fb6fec79.bin"
   },
   "assets/prefabs/model-resources/collider-toggle/buffers/cfbb53488fbe149cd9ca515423f3314a76bd14e1349a67a1694d150709c83059.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "cfbb53488fbe149cd9ca515423f3314a76bd14e1349a67a1694d150709c83059.bin"
   },
   "assets/prefabs/model-resources/collider-toggle/buffers/e67554d0047cfbbe990c7cfd8eda0f69c991822e2a096225a32e601957e2cb74.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "e67554d0047cfbbe990c7cfd8eda0f69c991822e2a096225a32e601957e2cb74.bin"
   },
   "assets/prefabs/model-resources/collider-toggle/buffers/ee2ab6c0671ca3bcf01eba9a4818c41e37563107577749b0c12a01bb865b0d65.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "ee2ab6c0671ca3bcf01eba9a4818c41e37563107577749b0c12a01bb865b0d65.bin"
   },
   "assets/prefabs/model-resources/variant-switch/buffers/7c28d07851b934942e96f2229c36c25070eba235439836fcb9817f11fb6fec79.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "7c28d07851b934942e96f2229c36c25070eba235439836fcb9817f11fb6fec79.bin"
   },
   "assets/prefabs/model-resources/variant-switch/buffers/cfbb53488fbe149cd9ca515423f3314a76bd14e1349a67a1694d150709c83059.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "cfbb53488fbe149cd9ca515423f3314a76bd14e1349a67a1694d150709c83059.bin"
   },
   "assets/prefabs/model-resources/variant-switch/buffers/e67554d0047cfbbe990c7cfd8eda0f69c991822e2a096225a32e601957e2cb74.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "e67554d0047cfbbe990c7cfd8eda0f69c991822e2a096225a32e601957e2cb74.bin"
   },
   "assets/prefabs/model-resources/variant-switch/buffers/ee2ab6c0671ca3bcf01eba9a4818c41e37563107577749b0c12a01bb865b0d65.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "ee2ab6c0671ca3bcf01eba9a4818c41e37563107577749b0c12a01bb865b0d65.bin"
   },
   "assets/prefabs/model-resources/video-trigger/buffers/7c28d07851b934942e96f2229c36c25070eba235439836fcb9817f11fb6fec79.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "7c28d07851b934942e96f2229c36c25070eba235439836fcb9817f11fb6fec79.bin"
   },
   "assets/prefabs/model-resources/video-trigger/buffers/cfbb53488fbe149cd9ca515423f3314a76bd14e1349a67a1694d150709c83059.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "cfbb53488fbe149cd9ca515423f3314a76bd14e1349a67a1694d150709c83059.bin"
   },
   "assets/prefabs/model-resources/video-trigger/buffers/e67554d0047cfbbe990c7cfd8eda0f69c991822e2a096225a32e601957e2cb74.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "e67554d0047cfbbe990c7cfd8eda0f69c991822e2a096225a32e601957e2cb74.bin"
   },
   "assets/prefabs/model-resources/video-trigger/buffers/ee2ab6c0671ca3bcf01eba9a4818c41e37563107577749b0c12a01bb865b0d65.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "ee2ab6c0671ca3bcf01eba9a4818c41e37563107577749b0c12a01bb865b0d65.bin"
   },
   "assets/prefabs/model-resources/visibility-trigger/buffers/7c28d07851b934942e96f2229c36c25070eba235439836fcb9817f11fb6fec79.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "7c28d07851b934942e96f2229c36c25070eba235439836fcb9817f11fb6fec79.bin"
   },
   "assets/prefabs/model-resources/visibility-trigger/buffers/cfbb53488fbe149cd9ca515423f3314a76bd14e1349a67a1694d150709c83059.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "cfbb53488fbe149cd9ca515423f3314a76bd14e1349a67a1694d150709c83059.bin"
   },
   "assets/prefabs/model-resources/visibility-trigger/buffers/e67554d0047cfbbe990c7cfd8eda0f69c991822e2a096225a32e601957e2cb74.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "e67554d0047cfbbe990c7cfd8eda0f69c991822e2a096225a32e601957e2cb74.bin"
   },
   "assets/prefabs/model-resources/visibility-trigger/buffers/ee2ab6c0671ca3bcf01eba9a4818c41e37563107577749b0c12a01bb865b0d65.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "ee2ab6c0671ca3bcf01eba9a4818c41e37563107577749b0c12a01bb865b0d65.bin"
   },
   "assets/prefabs/variant-switch.gltf": {
     "type": "asset",
@@ -995,8 +1214,12 @@
       "prefab"
     ],
     "dependencies": [],
+    "name": "variant-switch.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/Component_thumb_placeholder.png",
-    "thumbnailMode": "custom"
+    "thumbnailMode": "custom",
+    "width": 6,
+    "height": 6.96,
+    "depth": 7.47
   },
   "assets/prefabs/video-trigger.gltf": {
     "type": "asset",
@@ -1004,8 +1227,12 @@
       "prefab"
     ],
     "dependencies": [],
+    "name": "video-trigger.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/Component_thumb_placeholder.png",
-    "thumbnailMode": "custom"
+    "thumbnailMode": "custom",
+    "width": 4,
+    "height": 3.5,
+    "depth": 4
   },
   "assets/prefabs/visibility-trigger.gltf": {
     "type": "asset",
@@ -1013,8 +1240,12 @@
       "prefab"
     ],
     "dependencies": [],
+    "name": "visibility-trigger.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/Component_thumb_placeholder.png",
-    "thumbnailMode": "custom"
+    "thumbnailMode": "custom",
+    "width": 2,
+    "height": 1,
+    "depth": 2
   },
   "assets/skyboxes/arctic/Arctic_aurora_01.lookdev.gltf": {
     "type": "asset",
@@ -1023,6 +1254,7 @@
       "Skybox"
     ],
     "dependencies": [],
+    "name": "Arctic_aurora_01.lookdev.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_skyboxes_arctic_Arctic_aurora_01.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1033,6 +1265,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "Arctic_aurora_01.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_aurora_01.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1043,6 +1276,7 @@
       "Skybox"
     ],
     "dependencies": [],
+    "name": "Arctic_midday_01.lookdev.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_skyboxes_arctic_Arctic_midday_01.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1053,6 +1287,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "Arctic_midday_01.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_midday_01.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1063,6 +1298,7 @@
       "Skybox"
     ],
     "dependencies": [],
+    "name": "Arctic_midday_02.lookdev.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_skyboxes_arctic_Arctic_midday_02.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1073,6 +1309,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "Arctic_midday_02.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_midday_02.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1083,6 +1320,7 @@
       "Skybox"
     ],
     "dependencies": [],
+    "name": "Arctic_midday_03.lookdev.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_skyboxes_arctic_Arctic_midday_03.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1093,6 +1331,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "Arctic_midday_03.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_midday_03.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1103,7 +1342,8 @@
       "Skybox"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_skyboxes_arctic_Arctic_sunset_01.lookdev.gltf-thumbnail.png",
+    "name": "Arctic_sunset_01.lookdev.gltf",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/07fb48c7105fd3d38f58adc8d4d1bd9772473e82a1438d.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/arctic/Arctic_sunset_01.png": {
@@ -1113,6 +1353,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "Arctic_sunset_01.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_sunset_01.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1123,6 +1364,7 @@
       "Skybox"
     ],
     "dependencies": [],
+    "name": "Arctic_sunset_02.lookdev.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_skyboxes_arctic_Arctic_sunset_02.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1133,6 +1375,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "Arctic_sunset_02.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_sunset_02.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1143,6 +1386,7 @@
       "Skybox"
     ],
     "dependencies": [],
+    "name": "Arctic_sunset_03.lookdev.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_skyboxes_arctic_Arctic_sunset_03.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1153,6 +1397,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "Arctic_sunset_03.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_sunset_03.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1163,6 +1408,7 @@
       "Skybox"
     ],
     "dependencies": [],
+    "name": "desert_daytime_01.lookdev.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_skyboxes_desert_desert_daytime_01.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1173,6 +1419,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "desert_daytime_01.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_daytime_01.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1183,6 +1430,7 @@
       "Skybox"
     ],
     "dependencies": [],
+    "name": "desert_daytime_02.lookdev.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_skyboxes_desert_desert_daytime_02.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1193,6 +1441,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "desert_daytime_02.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_daytime_02.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1203,6 +1452,7 @@
       "Skybox"
     ],
     "dependencies": [],
+    "name": "desert_daytime_03.lookdev.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_skyboxes_desert_desert_daytime_03.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1213,6 +1463,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "desert_daytime_03.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_daytime_03.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1223,6 +1474,7 @@
       "Skybox"
     ],
     "dependencies": [],
+    "name": "desert_daytime_04.lookdev.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_skyboxes_desert_desert_daytime_04.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1233,6 +1485,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "desert_daytime_04.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_daytime_04.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1243,6 +1496,7 @@
       "Skybox"
     ],
     "dependencies": [],
+    "name": "desert_nighttime_01.lookdev.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_skyboxes_desert_desert_nighttime_01.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1253,6 +1507,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "desert_nighttime_01.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_nighttime_01.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1263,6 +1518,7 @@
       "Skybox"
     ],
     "dependencies": [],
+    "name": "desert_nighttime_02.lookdev.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_skyboxes_desert_desert_nighttime_02.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1273,6 +1529,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "desert_nighttime_02.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_nighttime_02.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1283,6 +1540,7 @@
       "Skybox"
     ],
     "dependencies": [],
+    "name": "desert_nighttime_03.lookdev.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_skyboxes_desert_desert_nighttime_03.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1293,6 +1551,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "desert_nighttime_03.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_nighttime_03.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1303,6 +1562,7 @@
       "Skybox"
     ],
     "dependencies": [],
+    "name": "desert_nighttime_04.lookdev.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_skyboxes_desert_desert_nighttime_04.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1313,6 +1573,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "desert_nighttime_04.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_nighttime_04.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1323,6 +1584,7 @@
       "Skybox"
     ],
     "dependencies": [],
+    "name": "forest_afternoom.lookdev.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_skyboxes_forest_forest_afternoom.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1333,6 +1595,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "forest_afternoon.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesforestforest_afternoon.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1343,6 +1606,7 @@
       "Skybox"
     ],
     "dependencies": [],
+    "name": "forest_day.lookdev.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_skyboxes_forest_forest_day.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1353,6 +1617,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "forest_day.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesforestforest_day.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1363,6 +1628,7 @@
       "Skybox"
     ],
     "dependencies": [],
+    "name": "forest_night_hills.lookdev.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_skyboxes_forest_forest_night_hills.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1373,6 +1639,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "forest_night_hills.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesforestforest_night_hills.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1383,6 +1650,7 @@
       "Skybox"
     ],
     "dependencies": [],
+    "name": "forest_sunset_hills.lookdev.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_skyboxes_forest_forest_sunset_hills.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1393,6 +1661,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "forest_sunset_hills.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesforestforest_sunset_hills.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1403,6 +1672,7 @@
       "Skybox"
     ],
     "dependencies": [],
+    "name": "forest_sunset.lookdev.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_skyboxes_forest_forest_sunset.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1413,6 +1683,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "forest_sunset.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesforestforest_sunset.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1423,6 +1694,7 @@
       "Skybox"
     ],
     "dependencies": [],
+    "name": "generic_midday_01.lookdev.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_skyboxes_generic_generic_midday_01.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1433,6 +1705,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "generic_midday_01.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_midday_01.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1443,6 +1716,7 @@
       "Skybox"
     ],
     "dependencies": [],
+    "name": "generic_midday_02.lookdev.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_skyboxes_generic_generic_midday_02.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1453,6 +1727,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "generic_midday_02.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_midday_02.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1463,6 +1738,7 @@
       "Skybox"
     ],
     "dependencies": [],
+    "name": "generic_midday_03.lookdev.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_skyboxes_generic_generic_midday_03.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1473,6 +1749,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "generic_midday_03.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_midday_03.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1483,6 +1760,7 @@
       "Skybox"
     ],
     "dependencies": [],
+    "name": "generic_midday_04.lookdev.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_skyboxes_generic_generic_midday_04.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1493,6 +1771,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "generic_midday_04.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_midday_04.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1503,6 +1782,7 @@
       "Skybox"
     ],
     "dependencies": [],
+    "name": "generic_nighttime_01.lookdev.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_skyboxes_generic_generic_nighttime_01.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1513,6 +1793,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "generic_nighttime_01.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_nighttime_01.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1523,6 +1804,7 @@
       "Skybox"
     ],
     "dependencies": [],
+    "name": "generic_nighttime_02.lookdev.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_skyboxes_generic_generic_nighttime_02.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1533,6 +1815,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "generic_nighttime_02.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_nighttime_02.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1543,6 +1826,7 @@
       "Skybox"
     ],
     "dependencies": [],
+    "name": "generic_nighttime_03.lookdev.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_skyboxes_generic_generic_nighttime_03.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1553,6 +1837,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "generic_nighttime_03.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_nighttime_03.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1563,6 +1848,7 @@
       "Skybox"
     ],
     "dependencies": [],
+    "name": "generic_nighttime_04.lookdev.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_skyboxes_generic_generic_nighttime_04.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1573,6 +1859,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "generic_nighttime_04.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_nighttime_04.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1583,6 +1870,7 @@
       "Skybox"
     ],
     "dependencies": [],
+    "name": "generic_sunset_01.lookdev.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_skyboxes_generic_generic_sunset_01.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1593,6 +1881,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "generic_sunset_01.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_sunset_01.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1603,6 +1892,7 @@
       "Skybox"
     ],
     "dependencies": [],
+    "name": "generic_sunset_02.lookdev.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_skyboxes_generic_generic_sunset_02.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1613,6 +1903,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "generic_sunset_02.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_sunset_02.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1623,6 +1914,7 @@
       "Skybox"
     ],
     "dependencies": [],
+    "name": "generic_sunset_03.lookdev.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_skyboxes_generic_generic_sunset_03.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1633,6 +1925,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "generic_sunset_03.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_sunset_03.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1643,6 +1936,7 @@
       "Skybox"
     ],
     "dependencies": [],
+    "name": "generic_sunset_04.lookdev.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_skyboxes_generic_generic_sunset_04.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1653,6 +1947,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "generic_sunset_04.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_sunset_04.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1663,6 +1958,7 @@
       "Skybox"
     ],
     "dependencies": [],
+    "name": "Mountains_midday_01.lookdev.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_skyboxes_mountains_Mountains_midday_01.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1673,6 +1969,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "Mountains_midday_01.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_midday_01.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1683,6 +1980,7 @@
       "Skybox"
     ],
     "dependencies": [],
+    "name": "Mountains_midday_02.lookdev.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_skyboxes_mountains_Mountains_midday_02.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1693,6 +1991,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "Mountains_midday_02.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_midday_02.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1703,6 +2002,7 @@
       "Skybox"
     ],
     "dependencies": [],
+    "name": "Mountains_midday_03.lookdev.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_skyboxes_mountains_Mountains_midday_03.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1713,6 +2013,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "Mountains_midday_03.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_midday_03.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1723,6 +2024,7 @@
       "Skybox"
     ],
     "dependencies": [],
+    "name": "Mountains_midday_04.lookdev.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_skyboxes_mountains_Mountains_midday_04.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1733,6 +2035,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "Mountains_midday_04.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_midday_04.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1743,6 +2046,7 @@
       "Skybox"
     ],
     "dependencies": [],
+    "name": "Mountains_sunrise_01.lookdev.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_skyboxes_mountains_Mountains_sunrise_01.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1753,6 +2057,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "Mountains_sunrise_01.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_sunrise_01.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1763,6 +2068,7 @@
       "Skybox"
     ],
     "dependencies": [],
+    "name": "Mountains_sunrise_02.lookdev.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_skyboxes_mountains_Mountains_sunrise_02.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1773,6 +2079,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "Mountains_sunrise_02.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_sunrise_02.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1783,6 +2090,7 @@
       "Skybox"
     ],
     "dependencies": [],
+    "name": "Mountains_sunrise_03.lookdev.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_skyboxes_mountains_Mountains_sunrise_03.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1793,6 +2101,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "Mountains_sunrise_03.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_sunrise_03.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1803,6 +2112,7 @@
       "Skybox"
     ],
     "dependencies": [],
+    "name": "Mountains_sunrise_04.lookdev.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_skyboxes_mountains_Mountains_sunrise_04.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1813,8 +2123,25 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "Mountains_sunrise_04.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_sunrise_04.png-thumbnail.png",
     "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/urban/City_Skyline_1.lookdev.gltf": {
+    "type": "file",
+    "tags": [
+      "Lookdev"
+    ],
+    "dependencies": [],
+    "name": "City_Skyline_1.lookdev.gltf"
+  },
+  "assets/skyboxes/urban/City_Skyline_1.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "name": "City_Skyline_1.png"
   },
   "assets/skyboxes/volcano/volcano_clouds_bright.lookdev.gltf": {
     "type": "asset",
@@ -1823,6 +2150,7 @@
       "Skybox"
     ],
     "dependencies": [],
+    "name": "volcano_clouds_bright.lookdev.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_skyboxes_volcano_volcano_clouds_bright.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1833,6 +2161,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "volcano_clouds_bright.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesvolcanovolcano_clouds_bright.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1843,6 +2172,7 @@
       "Skybox"
     ],
     "dependencies": [],
+    "name": "volcano_clouds_dark.lookdev.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_skyboxes_volcano_volcano_clouds_dark.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1853,6 +2183,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "volcano_clouds_dark.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesvolcanovolcano_clouds_dark.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1863,6 +2194,7 @@
       "Skybox"
     ],
     "dependencies": [],
+    "name": "volcano_day_overcast.lookdev.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_skyboxes_volcano_volcano_day_overcast.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1873,6 +2205,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "volcano_day_overcast.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesvolcanovolcano_day_overcast.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1883,6 +2216,7 @@
       "Skybox"
     ],
     "dependencies": [],
+    "name": "volcano_midday.lookdev.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_skyboxes_volcano_volcano_midday.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1893,6 +2227,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "volcano_midday.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesvolcanovolcano_midday.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1903,6 +2238,7 @@
       "Skybox"
     ],
     "dependencies": [],
+    "name": "volcano_night.lookdev.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_skyboxes_volcano_volcano_night.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1913,6 +2249,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "volcano_night.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesvolcanovolcano_night.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1923,6 +2260,7 @@
       "Skybox"
     ],
     "dependencies": [],
+    "name": "volcano_sunrise_overcaset.lookdev.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_skyboxes_volcano_volcano_sunrise_overcaset.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1933,6 +2271,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "volcano_sunrise_overcast.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesvolcanovolcano_sunrise_overcast.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1943,6 +2282,7 @@
       "Skybox"
     ],
     "dependencies": [],
+    "name": "volcano_sunset.lookdev.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_skyboxes_volcano_volcano_sunset.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1953,6 +2293,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "volcano_sunset.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesvolcanovolcano_sunset.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1962,6 +2303,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "blacckrock-roughness.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesblacckrock-roughness.pnghash5fa8f9-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1971,6 +2313,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "blackrock-albedo.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesblackrock-albedo.pnghash840ec4-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1980,6 +2323,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "blackrock-ao.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesblackrock-ao.pnghash206ff1-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1989,6 +2333,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "blackrock-normal.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesblackrock-normal.pnghasheb4e23-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -1998,6 +2343,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "coarse-loose-fabric_albedo.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturescoarse-loose-fabric_albedo.pnghash079013-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2007,6 +2353,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "coarse-loose-fabric_ao.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturescoarse-loose-fabric_ao.pnghashaf71e3-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2016,6 +2363,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "coarse-loose-fabric_normal.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturescoarse-loose-fabric_normal.pnghashd4fdbd-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2025,6 +2373,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "coarse-loose-fabric_roughness.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturescoarse-loose-fabric_roughness.pnghash4aed11-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2034,6 +2383,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "dry-dirt-albedo.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesdry-dirt-albedo.pnghashccdefd-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2043,6 +2393,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "dry-dirt-ao.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesdry-dirt-ao.pnghash2da235-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2052,6 +2403,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "dry-dirt-normal.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesdry-dirt-normal.pnghashfae6d9-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2061,6 +2413,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "dry-dirt-roughness.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesdry-dirt-roughness.pnghash60e810-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2070,6 +2423,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "oak-bark-ao.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesoak-bark-ao.pnghash015d53-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2079,6 +2433,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "oak-bark-basecolor.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesoak-bark-basecolor.pnghash7f6e30-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2088,6 +2443,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "oak-bark-normal.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesoak-bark-normal.pnghash5284db-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2097,6 +2453,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "oak-bark-rough.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesoak-bark-rough.pnghashebc7cd-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2106,6 +2463,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "snowdrift_albedo.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturessnowdrift_albedo.pnghash80b022-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2115,6 +2473,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "snowdrift_ao.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturessnowdrift_ao.pnghash9bc8d1-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2124,6 +2483,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "snowdrift_normal.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturessnowdrift_normal.pnghash69e7df-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2133,6 +2493,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "snowdrift_roughness.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturessnowdrift_roughness.pnghashe4aacd-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2142,6 +2503,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "streaked-marble-albedo.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesstreaked-marble-albedo.pnghash1c1f57-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2151,6 +2513,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "streaked-marble-normal.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesstreaked-marble-normal.pnghashe868ef-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2160,6 +2523,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "streaked-marble-roughness.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesstreaked-marble-roughness.pnghashc0acb4-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2169,6 +2533,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "wavy-sand_albedo.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstextureswavy-sand_albedo.pnghash7a18d7-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2178,6 +2543,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "wavy-sand_ao.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstextureswavy-sand_ao.pnghash5f5887-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2187,6 +2553,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "wavy-sand_normal.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstextureswavy-sand_normal.pnghash37aa57-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2196,6 +2563,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "wavy-sand_roughness.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstextureswavy-sand_roughness.pnghash659ce1-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2205,6 +2573,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "wispy-grass-meadow_albedo.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstextureswispy-grass-meadow_albedo.pnghash24c97d-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2214,6 +2583,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "wispy-grass-meadow_ao.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstextureswispy-grass-meadow_ao.pnghash2e8778-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2223,6 +2593,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "wispy-grass-meadow_normal.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstextureswispy-grass-meadow_normal.pnghashc613d4-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2232,6 +2603,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "wispy-grass-meadow_roughness.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstextureswispy-grass-meadow_roughness.pnghash4ca910-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2241,6 +2613,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "wood_albedo.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstextureswood_albedo.pnghashf383a7-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2250,6 +2623,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "wood_ao.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstextureswood_ao.pnghash6d7af7-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2259,6 +2633,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "wood_normal.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstextureswood_normal.pnghash4f43f3-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2268,6 +2643,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "wood_roughness.png",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstextureswood_roughness.pnghashf59614-thumbnail.png",
     "thumbnailMode": "automatic"
   }
