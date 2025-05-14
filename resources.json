@@ -232,10 +232,7 @@
     "description": "asdfasdfasdfasdfasdfafwefawef",
     "name": "artistic_tree_01.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsartistic_tree_01.glb-thumbnail.png",
-    "thumbnailMode": "automatic",
-    "width": 1.89,
-    "height": 6.5,
-    "depth": 0.96
+    "thumbnailMode": "automatic"
   },
   "assets/models/artistic_tree_02.glb": {
     "type": "asset",
@@ -249,10 +246,7 @@
     "dependencies": [],
     "name": "artistic_tree_02.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsartistic_tree_02.glb-thumbnail.png",
-    "thumbnailMode": "automatic",
-    "width": 1.31,
-    "height": 6.5,
-    "depth": 1.07
+    "thumbnailMode": "automatic"
   },
   "assets/models/artistic_tree_03.glb": {
     "type": "asset",
@@ -266,10 +260,7 @@
     "dependencies": [],
     "name": "artistic_tree_03.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsartistic_tree_03.glb-thumbnail.png",
-    "thumbnailMode": "automatic",
-    "width": 2.27,
-    "height": 6.5,
-    "depth": 0.96
+    "thumbnailMode": "automatic"
   },
   "assets/models/artistic_tree_04.glb": {
     "type": "asset",
@@ -283,10 +274,7 @@
     "dependencies": [],
     "name": "artistic_tree_04.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsartistic_tree_04.glb-thumbnail.png",
-    "thumbnailMode": "automatic",
-    "width": 1.31,
-    "height": 6.5,
-    "depth": 0.96
+    "thumbnailMode": "automatic"
   },
   "assets/models/artistic_tree_05.glb": {
     "type": "asset",
@@ -300,10 +288,7 @@
     "dependencies": [],
     "name": "artistic_tree_05.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsartistic_tree_05.glb-thumbnail.png",
-    "thumbnailMode": "automatic",
-    "width": 1.51,
-    "height": 6.5,
-    "depth": 1.17
+    "thumbnailMode": "automatic"
   },
   "assets/models/artistic_tree_06.glb": {
     "type": "asset",
@@ -317,10 +302,7 @@
     "dependencies": [],
     "name": "artistic_tree_06.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsartistic_tree_06.glb-thumbnail.png",
-    "thumbnailMode": "automatic",
-    "width": 0.96,
-    "height": 6.5,
-    "depth": 0.96
+    "thumbnailMode": "automatic"
   },
   "assets/models/artistic_tree_07.glb": {
     "type": "asset",
@@ -334,10 +316,7 @@
     "dependencies": [],
     "name": "artistic_tree_07.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsartistic_tree_07.glb-thumbnail.png",
-    "thumbnailMode": "automatic",
-    "width": 0.96,
-    "height": 6.54,
-    "depth": 0.96
+    "thumbnailMode": "automatic"
   },
   "assets/models/block_folly_1.glb": {
     "type": "asset",
@@ -354,10 +333,7 @@
     "dependencies": [],
     "name": "block_folly_1.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsblock_folly_1.glb-thumbnail.png",
-    "thumbnailMode": "automatic",
-    "width": 12.27,
-    "height": 5.14,
-    "depth": 14.13
+    "thumbnailMode": "automatic"
   },
   "assets/models/block_folly_2.glb": {
     "type": "asset",
@@ -374,10 +350,7 @@
     "dependencies": [],
     "name": "block_folly_2.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsblock_folly_2.glb-thumbnail.png",
-    "thumbnailMode": "automatic",
-    "width": 15.85,
-    "height": 6.42,
-    "depth": 14
+    "thumbnailMode": "automatic"
   },
   "assets/models/concrete_big_diff.jpg": {
     "type": "asset",
@@ -404,10 +377,7 @@
     "dependencies": [],
     "name": "cube_folly.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelscube_folly.glb-thumbnail.png",
-    "thumbnailMode": "automatic",
-    "width": 16.33,
-    "height": 11.25,
-    "depth": 24.8
+    "thumbnailMode": "automatic"
   },
   "assets/models/curved_folly_1.glb": {
     "type": "asset",
@@ -424,10 +394,7 @@
     "dependencies": [],
     "name": "curved_folly_1.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelscurved_folly_1.glb-thumbnail.png",
-    "thumbnailMode": "automatic",
-    "width": 7.37,
-    "height": 2.2,
-    "depth": 11.92
+    "thumbnailMode": "automatic"
   },
   "assets/models/curved_folly_2_small.glb": {
     "type": "asset",
@@ -444,10 +411,7 @@
     "dependencies": [],
     "name": "curved_folly_2_small.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelscurved_folly_2_small.glb-thumbnail.png",
-    "thumbnailMode": "automatic",
-    "width": 6.74,
-    "height": 7.56,
-    "depth": 7.34
+    "thumbnailMode": "automatic"
   },
   "assets/models/curved_folly_2.glb": {
     "type": "asset",
@@ -464,10 +428,7 @@
     "dependencies": [],
     "name": "curved_folly_2.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelscurved_folly_2.glb-thumbnail.png",
-    "thumbnailMode": "automatic",
-    "width": 14.32,
-    "height": 7.68,
-    "depth": 7.34
+    "thumbnailMode": "automatic"
   },
   "assets/models/curved_folly_3.glb": {
     "type": "asset",
@@ -484,10 +445,7 @@
     "dependencies": [],
     "name": "curved_folly_3.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelscurved_folly_3.glb-thumbnail.png",
-    "thumbnailMode": "automatic",
-    "width": 29.88,
-    "height": 5.3,
-    "depth": 21.34
+    "thumbnailMode": "automatic"
   },
   "assets/models/Curved_screen_med.glb": {
     "type": "asset",
@@ -501,10 +459,7 @@
     "dependencies": [],
     "name": "Curved_screen_med.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsCurved_screen_med.glb-thumbnail.png",
-    "thumbnailMode": "automatic",
-    "width": 10,
-    "height": 5,
-    "depth": 5
+    "thumbnailMode": "automatic"
   },
   "assets/models/Curved_screen_tall.glb": {
     "type": "asset",
@@ -518,10 +473,7 @@
     "dependencies": [],
     "name": "Curved_screen_tall.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsCurved_screen_tall.glb-thumbnail.png",
-    "thumbnailMode": "automatic",
-    "width": 10,
-    "height": 10,
-    "depth": 5
+    "thumbnailMode": "automatic"
   },
   "assets/models/Dome.glb": {
     "type": "asset",
@@ -535,10 +487,7 @@
     "dependencies": [],
     "name": "Dome.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsDome.glb-thumbnail.png",
-    "thumbnailMode": "automatic",
-    "width": 100,
-    "height": 100,
-    "depth": 100
+    "thumbnailMode": "automatic"
   },
   "assets/models/floor_deco.bin": {
     "type": "file",
@@ -556,10 +505,7 @@
     "dependencies": [],
     "name": "floor_deco.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_models_floor_deco.gltf-thumbnail.png",
-    "thumbnailMode": "automatic",
-    "width": 40.81,
-    "height": 0.58,
-    "depth": 69.04
+    "thumbnailMode": "automatic"
   },
   "assets/models/folly_v4.glb": {
     "type": "asset",
@@ -576,10 +522,7 @@
     "dependencies": [],
     "name": "folly_v4.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsfolly_v4.glb-thumbnail.png",
-    "thumbnailMode": "automatic",
-    "width": 23.1,
-    "height": 5.3,
-    "depth": 21.34
+    "thumbnailMode": "automatic"
   },
   "assets/models/fractal_arch_grooves.bin": {
     "type": "file",
@@ -597,10 +540,7 @@
     "dependencies": [],
     "name": "fractal_arch_grooves.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_models_fractal_arch_grooves.gltf-thumbnail.png",
-    "thumbnailMode": "automatic",
-    "width": 176.93,
-    "height": 41.86,
-    "depth": 93.25
+    "thumbnailMode": "automatic"
   },
   "assets/models/fractal_arch_smooth.bin": {
     "type": "file",
@@ -618,10 +558,7 @@
     "dependencies": [],
     "name": "fractal_arch_smooth.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_models_fractal_arch_smooth.gltf-thumbnail.png",
-    "thumbnailMode": "automatic",
-    "width": 198.09,
-    "height": 48.78,
-    "depth": 105.21
+    "thumbnailMode": "automatic"
   },
   "assets/models/fractal_arch.bin": {
     "type": "file",
@@ -639,10 +576,7 @@
     "dependencies": [],
     "name": "fractal_arch.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_models_fractal_arch.gltf-thumbnail.png",
-    "thumbnailMode": "automatic",
-    "width": 260.1,
-    "height": 61.54,
-    "depth": 137.08
+    "thumbnailMode": "automatic"
   },
   "assets/models/fractal_pergola_01.bin": {
     "type": "file",
@@ -660,10 +594,7 @@
     "dependencies": [],
     "name": "fractal_pergola_01.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_models_fractal_pergola_01.gltf-thumbnail.png",
-    "thumbnailMode": "automatic",
-    "width": 55.81,
-    "height": 20.87,
-    "depth": 18.83
+    "thumbnailMode": "automatic"
   },
   "assets/models/Ground_100x100.glb": {
     "type": "asset",
@@ -677,10 +608,7 @@
     "dependencies": [],
     "name": "Ground_100x100.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsGround_100x100.glb-thumbnail.png",
-    "thumbnailMode": "automatic",
-    "width": 100,
-    "height": 0,
-    "depth": 100
+    "thumbnailMode": "automatic"
   },
   "assets/models/Ground_10x10.glb": {
     "type": "asset",
@@ -694,10 +622,7 @@
     "dependencies": [],
     "name": "Ground_10x10.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsGround_10x10.glb-thumbnail.png",
-    "thumbnailMode": "automatic",
-    "width": 10,
-    "height": 0,
-    "depth": 10
+    "thumbnailMode": "automatic"
   },
   "assets/models/Ground_1x1.glb": {
     "type": "asset",
@@ -711,10 +636,7 @@
     "dependencies": [],
     "name": "Ground_1x1.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsGround_1x1.glbhash480456-thumbnail.png",
-    "thumbnailMode": "automatic",
-    "width": 1,
-    "height": 0,
-    "depth": 1
+    "thumbnailMode": "automatic"
   },
   "assets/models/Ground_cylinder.glb": {
     "type": "asset",
@@ -728,10 +650,7 @@
     "dependencies": [],
     "name": "Ground_cylinder.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsGround_cylinder.glb-thumbnail.png",
-    "thumbnailMode": "automatic",
-    "width": 1,
-    "height": 1,
-    "depth": 1
+    "thumbnailMode": "automatic"
   },
   "assets/models/Half_dome.glb": {
     "type": "asset",
@@ -745,10 +664,7 @@
     "dependencies": [],
     "name": "Half_dome.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsHalf_dome.glb-thumbnail.png",
-    "thumbnailMode": "automatic",
-    "width": 100,
-    "height": 50,
-    "depth": 100
+    "thumbnailMode": "automatic"
   },
   "assets/models/Natural_Store_demo_large1.glb": {
     "type": "asset",
@@ -764,10 +680,7 @@
     "dependencies": [],
     "name": "Natural_Store_demo_large1.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNatural_Store_demo_large1.glb-thumbnail.png",
-    "thumbnailMode": "automatic",
-    "width": 20.1,
-    "height": 8.3,
-    "depth": 20.22
+    "thumbnailMode": "automatic"
   },
   "assets/models/Natural_Store_demo_large2.glb": {
     "type": "asset",
@@ -783,10 +696,7 @@
     "dependencies": [],
     "name": "Natural_Store_demo_large2.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNatural_Store_demo_large2.glb-thumbnail.png",
-    "thumbnailMode": "automatic",
-    "width": 28.05,
-    "height": 8.3,
-    "depth": 20.22
+    "thumbnailMode": "automatic"
   },
   "assets/models/Natural_Store_demo_medium1.glb": {
     "type": "asset",
@@ -802,10 +712,7 @@
     "dependencies": [],
     "name": "Natural_Store_demo_medium1.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNatural_Store_demo_medium1.glb-thumbnail.png",
-    "thumbnailMode": "automatic",
-    "width": 16.14,
-    "height": 4.15,
-    "depth": 12.22
+    "thumbnailMode": "automatic"
   },
   "assets/models/Natural_Store_demo_medium2.glb": {
     "type": "asset",
@@ -821,10 +728,7 @@
     "dependencies": [],
     "name": "Natural_Store_demo_medium2.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNatural_Store_demo_medium2.glb-thumbnail.png",
-    "thumbnailMode": "automatic",
-    "width": 16.75,
-    "height": 4.1,
-    "depth": 12.25
+    "thumbnailMode": "automatic"
   },
   "assets/models/Natural_Store_demo_medium3.glb": {
     "type": "asset",
@@ -840,10 +744,7 @@
     "dependencies": [],
     "name": "Natural_Store_demo_medium3.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNatural_Store_demo_medium3.glb-thumbnail.png",
-    "thumbnailMode": "automatic",
-    "width": 16.1,
-    "height": 8.3,
-    "depth": 12.1
+    "thumbnailMode": "automatic"
   },
   "assets/models/Natural_Store_demo_small1.glb": {
     "type": "asset",
@@ -859,10 +760,7 @@
     "dependencies": [],
     "name": "Natural_Store_demo_small1.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_models_Natural_Store_demo_small1.glb-thumbnail.png",
-    "thumbnailMode": "automatic",
-    "width": 8.1,
-    "height": 4.5,
-    "depth": 12.22
+    "thumbnailMode": "automatic"
   },
   "assets/models/Natural_Store_demo_small2.glb": {
     "type": "asset",
@@ -878,10 +776,7 @@
     "dependencies": [],
     "name": "Natural_Store_demo_small2.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNatural_Store_demo_small2.glb-thumbnail.png",
-    "thumbnailMode": "automatic",
-    "width": 12,
-    "height": 4.46,
-    "depth": 10
+    "thumbnailMode": "automatic"
   },
   "assets/models/Natural_Store_demo_small3.glb": {
     "type": "asset",
@@ -897,10 +792,7 @@
     "dependencies": [],
     "name": "Natural_Store_demo_small3.glb",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNatural_Store_demo_small3.glb-thumbnail.png",
-    "thumbnailMode": "automatic",
-    "width": 8.1,
-    "height": 4.18,
-    "depth": 12.12
+    "thumbnailMode": "automatic"
   },
   "assets/models/textures/Wood_Furniture_modular_Base_color.png": {
     "type": "asset",
@@ -940,10 +832,7 @@
     "dependencies": [],
     "name": "animation-trigger.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/Component_thumb_placeholder.png",
-    "thumbnailMode": "custom",
-    "width": 2,
-    "height": 1,
-    "depth": 2
+    "thumbnailMode": "custom"
   },
   "assets/prefabs/audio-trigger.gltf": {
     "type": "asset",
@@ -953,10 +842,7 @@
     "dependencies": [],
     "name": "audio-trigger.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/Component_thumb_placeholder.png",
-    "thumbnailMode": "custom",
-    "width": 2,
-    "height": 1,
-    "depth": 2
+    "thumbnailMode": "custom"
   },
   "assets/prefabs/change-scene.gltf": {
     "type": "asset",
@@ -966,10 +852,7 @@
     "dependencies": [],
     "name": "change-scene.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/Component_thumb_placeholder.png",
-    "thumbnailMode": "custom",
-    "width": 2,
-    "height": 1,
-    "depth": 2
+    "thumbnailMode": "custom"
   },
   "assets/prefabs/collider-toggle.gltf": {
     "type": "asset",
@@ -979,10 +862,7 @@
     "dependencies": [],
     "name": "collider-toggle.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/Component_thumb_placeholder.png",
-    "thumbnailMode": "custom",
-    "width": 6,
-    "height": 1,
-    "depth": 2
+    "thumbnailMode": "custom"
   },
   "assets/prefabs/model-resources/animation-trigger/buffers/7c28d07851b934942e96f2229c36c25070eba235439836fcb9817f11fb6fec79.bin": {
     "type": "file",
@@ -1216,10 +1096,7 @@
     "dependencies": [],
     "name": "variant-switch.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/Component_thumb_placeholder.png",
-    "thumbnailMode": "custom",
-    "width": 6,
-    "height": 6.96,
-    "depth": 7.47
+    "thumbnailMode": "custom"
   },
   "assets/prefabs/video-trigger.gltf": {
     "type": "asset",
@@ -1229,10 +1106,7 @@
     "dependencies": [],
     "name": "video-trigger.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/Component_thumb_placeholder.png",
-    "thumbnailMode": "custom",
-    "width": 4,
-    "height": 3.5,
-    "depth": 4
+    "thumbnailMode": "custom"
   },
   "assets/prefabs/visibility-trigger.gltf": {
     "type": "asset",
@@ -1242,10 +1116,7 @@
     "dependencies": [],
     "name": "visibility-trigger.gltf",
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/Component_thumb_placeholder.png",
-    "thumbnailMode": "custom",
-    "width": 2,
-    "height": 1,
-    "depth": 2
+    "thumbnailMode": "custom"
   },
   "assets/skyboxes/arctic/Arctic_aurora_01.lookdev.gltf": {
     "type": "asset",
@@ -1342,8 +1213,7 @@
       "Skybox"
     ],
     "dependencies": [],
-    "name": "Arctic_sunset_01.lookdev.gltf",
-    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/07fb48c7105fd3d38f58adc8d4d1bd9772473e82a1438d.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/8e263c9c32f0ad77fcd1d05419994921404a61bcff2f6c.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/arctic/Arctic_sunset_01.png": {
@@ -2128,20 +1998,24 @@
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/urban/City_Skyline_1.lookdev.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Lookdev"
     ],
     "dependencies": [],
-    "name": "City_Skyline_1.lookdev.gltf"
+    "name": "City_Skyline_1.lookdev.gltf",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_skyboxes_urban_City_Skyline_1.jpg",
+    "thumbnailMode": "custom"
   },
   "assets/skyboxes/urban/City_Skyline_1.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
     "dependencies": [],
-    "name": "City_Skyline_1.png"
+    "name": "City_Skyline_1.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_skyboxes_urban_City_Skyline_1.png-thumbnail.png",
+    "thumbnailMode": "automatic"
   },
   "assets/skyboxes/volcano/volcano_clouds_bright.lookdev.gltf": {
     "type": "asset",
