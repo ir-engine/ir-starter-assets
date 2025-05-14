@@ -1156,6 +1156,59 @@
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_sunset_03.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
+  "assets/skyboxes/desert/African_Desert.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "prefab",
+      "Lookdev"
+    ],
+    "dependencies": [],
+    "name": "African_Desert.lookdev.gltf"
+  },
+  "assets/skyboxes/desert/African_Desert.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "name": "African_Desert.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_skyboxes_desert_African_Desert.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/desert/Burningman_2.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "prefab",
+      "Lookdev"
+    ],
+    "dependencies": [],
+    "name": "Burningman_2.lookdev.gltf"
+  },
+  "assets/skyboxes/desert/Burningman_2.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "name": "Burningman_2.png"
+  },
+  "assets/skyboxes/desert/Burningman1.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "prefab",
+      "Lookdev"
+    ],
+    "dependencies": [],
+    "name": "Burningman1.lookdev.gltf"
+  },
+  "assets/skyboxes/desert/Burningman1.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "name": "Burningman1.png"
+  },
   "assets/skyboxes/desert/desert_daytime_01.lookdev.gltf": {
     "type": "asset",
     "tags": [
@@ -1314,6 +1367,100 @@
     ],
     "dependencies": [],
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_nighttime_04.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/desert/Desert_Oasis_1.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "prefab",
+      "Lookdev"
+    ],
+    "dependencies": [],
+    "name": "Desert_Oasis_1.lookdev.gltf"
+  },
+  "assets/skyboxes/desert/Desert_Oasis_1.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "name": "Desert_Oasis_1.png"
+  },
+  "assets/skyboxes/desert/Desert_Oasis_2.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "prefab",
+      "Lookdev"
+    ],
+    "dependencies": [],
+    "name": "Desert_Oasis_2.lookdev.gltf"
+  },
+  "assets/skyboxes/desert/Desert_Oasis_2.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "name": "Desert_Oasis_2.png"
+  },
+  "assets/skyboxes/desert/Desert_Oasis_3.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "prefab",
+      "Lookdev"
+    ],
+    "dependencies": [],
+    "name": "Desert_Oasis_3.lookdev.gltf"
+  },
+  "assets/skyboxes/desert/Desert_Oasis_3.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "name": "Desert_Oasis_3.png"
+  },
+  "assets/skyboxes/desert/Egyptian_Desert.gltf": {
+    "type": "asset",
+    "tags": [
+      "prefab"
+    ],
+    "dependencies": [],
+    "name": "Egyptian_Desert.gltf"
+  },
+  "assets/skyboxes/desert/Egyptian_Desert.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "prefab"
+    ],
+    "dependencies": [],
+    "name": "Egyptian_Desert.lookdev.gltf"
+  },
+  "assets/skyboxes/desert/Egyptian_Desert.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "name": "Egyptian_Desert.png"
+  },
+  "assets/skyboxes/forest/African_Rainforest.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "prefab",
+      "Lookdev"
+    ],
+    "dependencies": [],
+    "name": "African_Rainforest.lookdev.gltf"
+  },
+  "assets/skyboxes/forest/African_Rainforest.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "name": "African_Rainforest.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_skyboxes_forest_African_Rainforest.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/forest/forest_afternoom.lookdev.gltf": {
@@ -1816,6 +1963,116 @@
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_sunrise_04.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
+  "assets/skyboxes/outer_space/Earths_Orbit.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "prefab",
+      "Lookdev"
+    ],
+    "dependencies": [],
+    "name": "Earths_Orbit.lookdev.gltf"
+  },
+  "assets/skyboxes/outer_space/Earths_Orbit.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "name": "Earths_Orbit.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_skyboxes_outer_space_Earths_Orbit.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/urban/City_Skyline_1.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "Lookdev",
+      "Skybox"
+    ],
+    "dependencies": [],
+    "name": "City_Skyline_1.lookdev.gltf",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_skyboxes_urban_City_Skyline_1.jpg",
+    "thumbnailMode": "custom"
+  },
+  "assets/skyboxes/urban/City_Skyline_1.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "name": "City_Skyline_1.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_skyboxes_urban_City_Skyline_1.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/urban/City_Skyline_Dystopian.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "prefab",
+      "Lookdev"
+    ],
+    "dependencies": [],
+    "name": "City_Skyline_Dystopian.lookdev.gltf"
+  },
+  "assets/skyboxes/urban/City_Skyline_Dystopian.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "name": "City_Skyline_Dystopian.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_skyboxes_urban_City_Skyline_Dystopian.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/urban/City_Skyline_Sunset_1.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "prefab",
+      "Lookdev"
+    ],
+    "dependencies": [],
+    "name": "City_Skyline_Sunset_1.lookdev.gltf"
+  },
+  "assets/skyboxes/urban/City_Skyline_Sunset_1.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "name": "City_Skyline_Sunset_1.png"
+  },
+  "assets/skyboxes/urban/City_Skyline_Sunset_2.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "prefab",
+      "Lookdev"
+    ],
+    "dependencies": [],
+    "name": "City_Skyline_Sunset_2.lookdev.gltf"
+  },
+  "assets/skyboxes/urban/City_Skyline_Sunset_2.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "name": "City_Skyline_Sunset_2.png"
+  },
+  "assets/skyboxes/urban/City_Streets_1.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "prefab",
+      "Lookdev"
+    ],
+    "dependencies": [],
+    "name": "City_Streets_1.lookdev.gltf"
+  },
+  "assets/skyboxes/urban/City_Streets_1.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "name": "City_Streets_1.png"
+  },
   "assets/skyboxes/volcano/volcano_clouds_bright.lookdev.gltf": {
     "type": "asset",
     "tags": [
@@ -2270,5 +2527,153 @@
     "dependencies": [],
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstextureswood_roughness.pnghashf59614-thumbnail.png",
     "thumbnailMode": "automatic"
+  },
+  "public/scenes/African_Desert.gltf": {
+    "type": "scene",
+    "tags": [
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "African_Desert.gltf",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/African_Desert.thumbnail.jpg",
+    "thumbnailMode": "custom"
+  },
+  "public/scenes/African_Rainforest.gltf": {
+    "type": "scene",
+    "tags": [
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "African_Rainforest.gltf",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/African_Rainforest.thumbnail.jpg",
+    "thumbnailMode": "custom"
+  },
+  "public/scenes/Burningman_2.gltf": {
+    "type": "scene",
+    "tags": [
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Burningman_2.gltf",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/Burningman_2.thumbnail.jpg",
+    "thumbnailMode": "custom"
+  },
+  "public/scenes/Burningman1.gltf": {
+    "type": "scene",
+    "tags": [
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Burningman1.gltf",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/Burningman1.thumbnail.jpg",
+    "thumbnailMode": "custom"
+  },
+  "public/scenes/City_Skyline_1.gltf": {
+    "type": "scene",
+    "tags": [
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "City_Skyline_1.gltf",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/City_Skyline_1.thumbnail.jpg",
+    "thumbnailMode": "custom"
+  },
+  "public/scenes/City_Skyline_Dystopian.gltf": {
+    "type": "scene",
+    "tags": [
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "City_Skyline_Dystopian.gltf",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/City_Skyline_Dystopian.thumbnail.jpg",
+    "thumbnailMode": "custom"
+  },
+  "public/scenes/City_Skyline_Sunset_1.gltf": {
+    "type": "scene",
+    "tags": [
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "City_Skyline_Sunset_1.gltf",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/City_Skyline_Sunset_1.thumbnail.jpg",
+    "thumbnailMode": "custom"
+  },
+  "public/scenes/City_Skyline_Sunset_2.gltf": {
+    "type": "scene",
+    "tags": [
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "City_Skyline_Sunset_2.gltf",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/City_Skyline_Sunset_2.thumbnail.jpg",
+    "thumbnailMode": "custom"
+  },
+  "public/scenes/City_Streets_1.gltf": {
+    "type": "scene",
+    "tags": [
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "City_Streets_1.gltf",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/City_Streets_1.thumbnail.jpg",
+    "thumbnailMode": "custom"
+  },
+  "public/scenes/Desert_Oasis_1.gltf": {
+    "type": "scene",
+    "tags": [
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Desert_Oasis_1.gltf",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/Desert_Oasis_1.thumbnail.jpg",
+    "thumbnailMode": "custom"
+  },
+  "public/scenes/Desert_Oasis_2.gltf": {
+    "type": "scene",
+    "tags": [
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Desert_Oasis_2.gltf",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/Desert_Oasis_2.thumbnail.jpg",
+    "thumbnailMode": "custom"
+  },
+  "public/scenes/Desert_Oasis_3.gltf": {
+    "type": "scene",
+    "tags": [
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Desert_Oasis_3.gltf",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/Desert_Oasis_3.thumbnail.jpg",
+    "thumbnailMode": "custom"
+  },
+  "public/scenes/Earths_Orbit.gltf": {
+    "type": "scene",
+    "tags": [
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Earths_Orbit.gltf",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/Earths_Orbit.thumbnail.jpg",
+    "thumbnailMode": "custom"
+  },
+  "public/scenes/Egyptian_Desert.gltf": {
+    "type": "scene",
+    "tags": [
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Egyptian_Desert.gltf",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/Egyptian_Desert.thumbnail.jpg",
+    "thumbnailMode": "custom"
+  },
+  "public/scenes/New-Scene.gltf": {
+    "type": "scene",
+    "tags": [
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "New-Scene.gltf"
   }
 }

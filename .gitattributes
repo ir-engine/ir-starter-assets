@@ -10,6 +10,7 @@ assets/models/folly_v4.glb filter=lfs diff=lfs merge=lfs -text
 assets/models/textures/Wood_Furniture_modular_Normal_OpenGL.png filter=lfs diff=lfs merge=lfs -text
 assets/skyboxes/desert/desert_nighttime_01.png filter=lfs diff=lfs merge=lfs -text
 assets/skyboxes/desert/desert_nighttime_02.png filter=lfs diff=lfs merge=lfs -text
+assets/skyboxes/forest/African_Rainforest.png filter=lfs diff=lfs merge=lfs -text
 assets/skyboxes/forest/forest_night_hills.png filter=lfs diff=lfs merge=lfs -text
 assets/skyboxes/mountains/Mountains_midday_01.png filter=lfs diff=lfs merge=lfs -text
 assets/skyboxes/mountains/Mountains_midday_03.png filter=lfs diff=lfs merge=lfs -text
@@ -17,6 +18,7 @@ assets/skyboxes/mountains/Mountains_sunrise_01.png filter=lfs diff=lfs merge=lfs
 assets/skyboxes/mountains/Mountains_sunrise_02.png filter=lfs diff=lfs merge=lfs -text
 assets/skyboxes/mountains/Mountains_sunrise_03.png filter=lfs diff=lfs merge=lfs -text
 assets/skyboxes/mountains/Mountains_sunrise_04.png filter=lfs diff=lfs merge=lfs -text
+assets/skyboxes/urban/City_Streets_1.png filter=lfs diff=lfs merge=lfs -text
 assets/skyboxes/volcano/volcano_midday.png filter=lfs diff=lfs merge=lfs -text
 assets/skyboxes/volcano/volcano_sunrise_overcast.png filter=lfs diff=lfs merge=lfs -text
 assets/skyboxes/volcano/volcano_sunset.png filter=lfs diff=lfs merge=lfs -text
